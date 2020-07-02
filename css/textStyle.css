@@ -1,0 +1,29 @@
+.darkblue-a {
+  color: #12204a !important;
+}
+.lightblue-a {
+  color: #233f94 !important;
+}
+.red-a {
+  color: #e7131a !important;
+}
+
+.shadow-text {
+  text-shadow: 0 0 5px white, 0 0 5px whitesmoke;
+}
+
+.mybtn-red {
+  background-color: #e7131a; /* red */
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 20px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.mybtn-red:hover {
+  background-color: #e7131a;
+  color: #233f94;
+}

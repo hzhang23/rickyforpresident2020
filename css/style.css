@@ -1,5 +1,21 @@
 @import url("https://fonts.googleapis.com/css?family=Cinzel");
 
+.fa-facebook {
+  color: white;
+}
+
+.fa-linkedin {
+  color: white;
+}
+
+.fa-youtube {
+  color: white;
+}
+
+.fa-github {
+  color: white;
+}
+
 nav ul a,
 nav .brand-logo {
   color: #12204a;
@@ -7,8 +23,37 @@ nav .brand-logo {
   font-weight: 900;
 }
 
+h2 {
+  font-family: cinzel;
+  font-weight: 700;
+}
+
+h5 {
+  font-family: cinzel;
+  font-weight: 700;
+}
+
+a {
+  font-family: cinzel;
+}
+
 p {
   line-height: 2rem;
+  font-family: Cinzel;
+}
+
+.button-a {
+  transition-duration: 0.4s;
+}
+
+.button-a:hover {
+  background-color: white;
+  background-color: #e7131a;
+}
+
+.imgsize {
+  height: 500px;
+  width: 500px;
 }
 
 .sidenav-trigger {
@@ -50,4 +95,5 @@ p {
 
 footer.page-footer {
   margin: 0;
+  background-color: #12204a;
 }

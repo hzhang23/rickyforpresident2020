@@ -12,6 +12,10 @@
   text-shadow: 0 0 5px white, 0 0 5px whitesmoke;
 }
 
+.shadow-text-red {
+  text-shadow: 0 0 5px #e7131a, 0 0 5px #e7131a;
+}
+
 .mybtn-red {
   background-color: #e7131a; /* red */
   border: none;
